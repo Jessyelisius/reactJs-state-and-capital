@@ -1,0 +1,15 @@
+body {
+  background-color: #2261cc;
+}
+
+.text-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #C5E1E5;
+  padding: 7px;
+  border: 2px solid #C2C9CC;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
